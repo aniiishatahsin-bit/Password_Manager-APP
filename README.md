@@ -25,7 +25,7 @@ This application uses Fernet symmetric encryption to protect stored passwords.
 The `secret.key` file acts as the master encryption key required to decrypt saved credentials.
 
 ⚠️ Important:  
-Keep the `secret.key` file secure and private. Losing this file means the stored passwords cannot be recovered.
+Keep the `secret.key` file secure and private.
 
 ## Future Improvements
 
